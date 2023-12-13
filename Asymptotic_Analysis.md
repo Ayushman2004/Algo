@@ -19,6 +19,8 @@ This notation represents the best-case scenario (lower bound) i.e. the minimum a
 ### 3. Theta notation (Θ):
 
 This notation represents the average-case scenario (both upper and lower bound) i.e. the amount of time or space an algorithm typically needs to solve a prolem.
+<br>
+** We sum all the cases and divide them by the total number of cases**
 
 
 
