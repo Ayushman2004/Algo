@@ -6,7 +6,7 @@ the key(sentinel value) and a while loop is iterated to search the position of t
 
 <br>
 
-'''
+```python
 
 arr=[1,2,3,4,5,6,7,8,9,0]
 key=7
@@ -27,7 +27,7 @@ if index < n -1:
 else:
     print('Object not found')
 
-'''
+```
 
 <br>
 
