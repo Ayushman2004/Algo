@@ -32,6 +32,8 @@ else:
 <br>
 
 **The main advantage of sentinel linear search over a regular linear search is that it eliminates the need to check for the end of array in every iteration, as with the sentinel value assigned at the end of the array the algorithm is destined to eliminated the iteration.**
+
+
 **This can result in slight performance improvement as it reduces the number of conditions checked in each iteration i.e. the end of the array**
 
 
